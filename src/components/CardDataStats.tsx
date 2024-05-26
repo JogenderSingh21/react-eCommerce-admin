@@ -26,7 +26,7 @@ const CardDataStats: React.FC<CardDataStatsProps> = ({
       <div className="mt-4 flex items-center justify-between">
         <div className="flex items-center gap-2">
           <div
-            className={`flex h-9 w-9 items-center justify-center rounded-xl bg-${bg}-400 dark:bg-meta-4`}
+            className={`flex h-9 w-9 items-center justify-center rounded-xl ${bg}`}
           >
             {children}
           </div>

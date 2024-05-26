@@ -19,7 +19,7 @@ const Dashboard: React.FC = () => {
           total="$2.346K"
           rate="0.52%"
           levelUp
-          bg="violet"
+          bg="bg-violet-400"
         >
           <svg
             className="fill-white"
@@ -44,7 +44,7 @@ const Dashboard: React.FC = () => {
           total="$54.6K"
           rate="2.73%"
           levelUp
-          bg="blue"
+          bg="bg-blue-400"
         >
           <svg
             className="fill-white"
@@ -73,7 +73,7 @@ const Dashboard: React.FC = () => {
           total="5.65K"
           rate="1.69%"
           levelUp
-          bg="green"
+          bg="bg-green-400"
         >
           <svg
             className="fill-white"
@@ -98,7 +98,7 @@ const Dashboard: React.FC = () => {
           total="2.8K"
           rate="0.87%"
           levelDown
-          bg="pink"
+          bg="bg-pink-400"
         >
           <svg
             className="fill-white"
